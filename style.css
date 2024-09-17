@@ -44,6 +44,7 @@ body {
   gap: 10px;
   align-items: center;
 }
+/* my learning popup */
 .mylearning{
   position: relative;
   cursor: pointer;
@@ -84,10 +85,8 @@ body {
   position: absolute;
   background-color: #fff;
   border: 2px solid black;
-  width: fit-content;
+  width: 35%;
   padding:2%;
-  /* height: 100px; */
-  text-align: center;
   top: 10%;
   left: 10%;
 }
